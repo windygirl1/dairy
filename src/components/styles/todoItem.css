@@ -1,0 +1,21 @@
+.mainContainer {
+  margin: 20px;
+}
+
+.textContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  word-break: break-all;
+}
+.icon {
+  color: #e64646;
+}
+
+.date {
+  display: block;
+  margin-left: 10px;
+}
